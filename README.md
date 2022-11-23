@@ -41,6 +41,18 @@ cd rpi-mqtt-fan
 nano config.yaml
 ```
 
+```
+{
+    "broker": "192.168.10.4",
+    "port": 1883,
+    "device_id": "serverfan",
+    "gpio_pin": 18,
+    "pwm_freq": 25000,
+    "mqttUser": "YourUser",
+    "mqttPassword": "ChangeMe"
+}
+```
+
 Finally copy mqttFan.service to the systemd folder and enable everything
 ```
 sudo cp mqttFan.service /lib/systemd/system/mqttFan.service
