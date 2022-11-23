@@ -12,7 +12,7 @@
 </div>
 
 ## Introduction
-This repository is based on a GitHub Gist from @SqyD. Unfortunately the code was not maintained and finally migrated to a WEMOS/ESPHome solution.
+This repository is based on a GitHub Gist from <a href="https://gist.github.com/SqyD/a927ab612df767a0cc892bcde23d025c">@SqyD</a>. Unfortunately the code was not maintained and finally migrated to a WEMOS/ESPHome solution.
 I still wanted to use my Raspberry Pi to controle my fan rather to install additional hardware like a WEMOS. In addition I want to controll everything with Home Assistant via MQTT.
 
 ## Hardware
