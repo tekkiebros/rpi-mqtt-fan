@@ -1,5 +1,15 @@
-# Raspberry MQTT Fan
-Python Script to control a PWM fan with MQTT
+<div align="center">
+    <a href="https://tekkiebros.de">
+        <img height="150" src="https://www.tekkiebros.de/wp-content/uploads/TekkieBros-Logo_small-Kopie.jpg">
+    </a>
+    <br>
+    <br>
+    <h1>Raspberry MQTT Fan</h1>
+    <p>
+        Python Script to control a PWM fan with MQTT
+    </p>
+    <a href="https://github.com/tekkiebros/rpi-mqtt-fan/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/tekkiebros/rpi-mqtt-fan"></a>
+</div>
 
 ## Introduction
 This repository is based on a GitHub Gist from @SqyD. Unfortunately the code was not maintained and finally migrated to a WEMOS/ESPHome solution.
